@@ -1,0 +1,44 @@
+{
+  "United States": {
+    "series_id": "PET.MCRFPUS1.M",
+    "metadata": {
+      "series_id": "PET.MCRFPUS1.M",
+      "fetched_at": "2026-04-23T00:16:28.667148"
+    }
+  },
+  "Texas": {
+    "series_id": "PET.MCRFPTX2.M",
+    "metadata": {
+      "series_id": "PET.MCRFPTX2.M",
+      "fetched_at": "2026-04-23T00:16:29.362294"
+    }
+  },
+  "North Dakota": {
+    "series_id": "PET.MCRFPND2.M",
+    "metadata": {
+      "series_id": "PET.MCRFPND2.M",
+      "fetched_at": "2026-04-23T00:16:30.189364"
+    }
+  },
+  "New Mexico": {
+    "series_id": "PET.MCRFPNM2.M",
+    "metadata": {
+      "series_id": "PET.MCRFPNM2.M",
+      "fetched_at": "2026-04-23T00:16:30.897626"
+    }
+  },
+  "Oklahoma": {
+    "series_id": "PET.MCRFPOK2.M",
+    "metadata": {
+      "series_id": "PET.MCRFPOK2.M",
+      "fetched_at": "2026-04-23T00:16:31.623217"
+    }
+  },
+  "Colorado": {
+    "series_id": "PET.MCRFPCO2.M",
+    "metadata": {
+      "series_id": "PET.MCRFPCO2.M",
+      "fetched_at": "2026-04-23T00:16:32.337098"
+    }
+  }
+}
