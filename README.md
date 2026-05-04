@@ -107,3 +107,4 @@ Interactive financial model for horizontal oil wells:
 
 All calculations run in real-time with full transparency.
 
+Application built by Shiva Sai Pavan Inja
